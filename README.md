@@ -3,8 +3,14 @@
 <h2>👨‍💻 Software Development Practice & Projects:</h2>
 
 - <b>Java</b>
-  - [Java Practice](https://github.com/HenryA23/JavaProgramming/tree/master/src/Programing/refrences)
+  - [Java Programming](https://github.com/HenryA23/JavaProgramming/tree/master/src/Programing/refrences)
   -  [Java Projects](https://github.com/HenryA23/JavaProgramming/tree/master/src/projects/beginner)
+
+ - <b>Python</b>
+   - [Python Programming](https://https://github.com/HenryA23/PythonProgramming/tree/master/PythonProgramming)
+
+ - <b>HTML & Css</b>
+    - [HTML & Css Programming](http://https://github.com/HenryA23/Html_Css_Javascript/tree/master/CSS%20References)  
 
     <h2> 📝Certifications</h2>
     
@@ -24,17 +30,3 @@
 
 [linkedin]: https://linkedin.com/in/alexhenry5
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
