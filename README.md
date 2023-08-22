@@ -3,9 +3,8 @@
 
 ## Programming & Projects:
 
-. Java Practice and Projects
 <ul style="list-style-type:circle;">
-<li>src/Programing/refrences</li>
+<li>Java Practice and Projects</li>
 
 </ul>  
 
