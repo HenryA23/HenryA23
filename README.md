@@ -16,6 +16,7 @@
     
     - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=776BEFD3ED765989EEBF9098AB2A1C70F7A9158EA1B1B40CB7DC106EEC2B8E4D)
     - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F4159FBD1954C3889EEAF4B3FE801052DC973D9FCC05F495DD13A063BBC73905)
+    - [Google Cybersecurity Certificate](https://www.credly.com/badges/2bf9b3be-cdc6-437c-860b-3802e8756f9a/public_url) 
  
 
 
