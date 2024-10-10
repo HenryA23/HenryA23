@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! <br/> <a href="https://www.linkedin.com/in/alexhenry5">Aspiring Cloud Sec Engineer</a></h1>
 
-<h2>👨‍💻 Software Development Practice & Projects:</h2>
+<h2>👨‍💻 Portfolio & Projects:</h2>
 
 - <b>Java</b>
   - [Java Programming](https://github.com/HenryA23/JavaProgramming/tree/master/src/Programing/refrences)
