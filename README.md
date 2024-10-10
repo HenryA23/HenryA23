@@ -7,7 +7,7 @@
   -  [Java Projects](https://github.com/HenryA23/JavaProgramming/tree/master/src/projects/beginner)
 
  - <b>Python</b>
-   - [Python Programming](https://https://github.com/HenryA23/PythonProgramming/tree/master/PythonProgramming)
+   - [Python Programming](https://github.com/HenryA23/PythonProgramming/tree/master/PythonProgramming)
 
  - <b>HTML & Css</b>
     - [HTML & Css Programming](http://https://github.com/HenryA23/Html_Css_Javascript/tree/master/CSS%20References)  
