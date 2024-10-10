@@ -10,7 +10,7 @@
    - [Python Programming](https://github.com/HenryA23/PythonProgramming/tree/master/PythonProgramming)
 
  - <b>HTML & Css</b>
-    - [HTML & Css Programming](http://https://github.com/HenryA23/Html_Css_Javascript/tree/master/CSS%20References)  
+    - [HTML & Css Programming](https://github.com/HenryA23/Html_Css_Javascript/tree/master/CSS%20References)  
 
     <h2> 📝Certifications</h2>
     
